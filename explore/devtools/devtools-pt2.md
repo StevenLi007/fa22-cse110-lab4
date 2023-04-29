@@ -1,0 +1,2 @@
+1. The input numbers are taken in as strings, and hence when they are fed as arguments to calculateSum(), they are concatenated instead of added.
+2. I can use the parseInt() function to convert the inputs to numbers, then pass them to calculateSum().
